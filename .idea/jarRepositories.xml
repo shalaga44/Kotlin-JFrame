@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_resources-2" />
+      <option name="name" value="injected_offline_resources-2" />
+      <option name="url" value="file:$USER_HOME$/.android/manual-offline-m2/Shalaga44/resources-2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="MavenRepo" />
+      <option name="name" value="MavenRepo" />
+      <option name="url" value="https://repo.maven.apache.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_files-2" />
+      <option name="name" value="injected_offline_files-2" />
+      <option name="url" value="file:$USER_HOME$/.android/manual-offline-m2/Shalaga44/files-2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_module-artifact" />
+      <option name="name" value="injected_offline_module-artifact" />
+      <option name="url" value="file:$USER_HOME$/.android/manual-offline-m2/Shalaga44/module-artifact/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_module-versions" />
+      <option name="name" value="injected_offline_module-versions" />
+      <option name="url" value="file:$USER_HOME$/.android/manual-offline-m2/Shalaga44/module-versions/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_resource-at-url" />
+      <option name="name" value="injected_offline_resource-at-url" />
+      <option name="url" value="file:$USER_HOME$/.android/manual-offline-m2/Shalaga44/resource-at-url/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_module-artifacts" />
+      <option name="name" value="injected_offline_module-artifacts" />
+      <option name="url" value="file:$USER_HOME$/.android/manual-offline-m2/Shalaga44/module-artifacts/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_metadata-2" />
+      <option name="name" value="injected_offline_metadata-2" />
+      <option name="url" value="file:$USER_HOME$/.android/manual-offline-m2/Shalaga44/metadata-2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="injected_offline_module-metadata" />
+      <option name="name" value="injected_offline_module-metadata" />
+      <option name="url" value="file:$USER_HOME$/.android/manual-offline-m2/Shalaga44/module-metadata/" />
+    </remote-repository>
+  </component>
+</project>
